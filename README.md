@@ -11,6 +11,6 @@ course site:"http://courses.cs.tau.ac.il/software1/1415a/index.html"
 
 HW3 Tasks https://drive.google.com/file/d/0B8jUzfR71l72T2ZCRFdpcThVZU0/view?usp=sharing 
 
-HW4 Tasks https://drive.google.com/file/d/0B8jUzfR71l72bDhIbC0waEw2bVU/view?usp=sharing (bug with the delimiter detection)
+HW4 Tasks https://drive.google.com/file/d/0B8jUzfR71l72bDhIbC0waEw2bVU/view?usp=sharing 
 
 HW4 Tasks https://drive.google.com/file/d/0B8jUzfR71l72cmRhRC1XTjlzbGM/view?usp=sharing
